@@ -75,7 +75,8 @@ The dashboard loads `results/results.json` from the parent directory.
 If no results file is found, it shows demo data so you can preview the UI.
 
 ---
-
+![Dashboard Overview](dashboard/Preview1.png)
+![Dashboard Detail](dashboard/Preview2.png)
 ## Failure Categories
 
 | Category | Description |
